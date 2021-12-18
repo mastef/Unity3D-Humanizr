@@ -17,6 +17,6 @@
     "url": "https://www.tnrd.net"
   },
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "2.0.0"
+    "jillejr.newtonsoft.json-for-unity": "12.0.302"
   }
 }
