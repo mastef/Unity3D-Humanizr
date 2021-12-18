@@ -39,13 +39,14 @@ namespace Humanizer.Configuration
             RegisterDefaultFormatter("hy");
             RegisterDefaultFormatter("id");
             RegisterDefaultFormatter("ja");
-            RegisterDefaultFormatter("ko");
+            RegisterDefaultFormatter("ko-KR");
             Register("mt", new MalteseFormatter("mt"));
             RegisterDefaultFormatter("nb");
             RegisterDefaultFormatter("nb-NO");
             RegisterDefaultFormatter("nl");
             RegisterDefaultFormatter("bn-BD");
             RegisterDefaultFormatter("it");
+            RegisterDefaultFormatter("th-TH");
             RegisterDefaultFormatter("uz-Latn-UZ");
             RegisterDefaultFormatter("uz-Cyrl-UZ");
             RegisterDefaultFormatter("zh-CN");
